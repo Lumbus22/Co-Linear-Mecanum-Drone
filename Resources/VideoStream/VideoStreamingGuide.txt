@@ -9,6 +9,7 @@ use command "ssh name@ip#" ex: ssh edwin@123.456.789 then type in password
 Code on rpi:
 Assumiing on VS code and remote shell library installed
 click blue double arrow in very bottom left
+Connect to Host and type in the ip in the 'name@ip#' format
 follow the prompts ie connect to the ip, type in password
 here you can add files and code
 There may be a terminal prompt also asking for a password
