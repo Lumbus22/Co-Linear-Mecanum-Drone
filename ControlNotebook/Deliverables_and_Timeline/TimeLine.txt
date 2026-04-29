@@ -14,7 +14,7 @@ Updates:
 
 
 9/8/2025
--Current MOtors are two week and fragile. 
+-Current Motors are two week and fragile. 
 -Contacting Suppliers for Hallow Shaft pancake motors with around ~ 2.0kgf-cm
 
 9/15/2025
@@ -34,12 +34,36 @@ The prototype was not finished due to the prints not being finshed before end of
 The Arduino ESP32 was able to control the motors individually with a bluetooth controller but machine vision is on hold for the time being due to problems with the devices used 
 (Raspberry Pi is too slow, Coral TPU documents were removed by google).
 
-SD2 Start:
+SD2 Start (only major events listed):
 1/21/2026
 -Continue printing various wheel and gear prototypes
--Computer engineers move onto lidar SLAM simulation
+-Computer engineers move onto various raspberry pi features
 -Started prototype electrical distrobution board design
 
 1/28/2026
 -Electrical board prototype completed.
+
+3/25/2026
+-Wheel design changed
+-Machine vision on hold due to various problematic bugs.
+
+4/8/2026
+-Machine vision completed, needed very specific libraries to work.
+-New wheel print start
+-Begin final electrical soldering
+
+4/15/2026
+-First wheel print finished, testing begins
+-Begin further development of video stream feed and web page
+
+4/22/2026
+-All prints finalized, assembly begins
+-All soldering to electrical board is being finalized
+
+4/29/2026
+-Final assembly is completed
+-Eletrical board finished
+-Video stream and YOLO complete, web page development complete.
+
+
 
