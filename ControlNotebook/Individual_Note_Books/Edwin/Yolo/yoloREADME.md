@@ -8,6 +8,7 @@ To switch modes, just change the one line near the top:
 
 
 Terminal Commands to control video stream:
+
 sudo systemctl stop videostream      # stop now                               
 sudo systemctl start videostream     # start now                              
 sudo systemctl restart videostream   # restart (after editing the script)     
