@@ -9,3 +9,4 @@ https://forum.arduino.cc/t/creating-burst-pwm-using-mcpwm-in-esp32/1162085
 
 video stream guides for Raspberry PI
 https://www.youtube.com/watch?v=qs3KhLDUBmk
+https://shillehtek.com/blogs/news/raspberry-pi-camera-stream-video-flask
