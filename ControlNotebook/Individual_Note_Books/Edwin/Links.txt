@@ -1,2 +1,11 @@
 Yolo Guide
 https://docs.ultralytics.com/guides/raspberry-pi/
+
+Bluetooth ESP32
+https://racheldebarros.com/connect-your-game-controller-to-an-esp32/
+
+mpwn for ESP32
+https://forum.arduino.cc/t/creating-burst-pwm-using-mcpwm-in-esp32/1162085
+
+video stream guides for Raspberry PI
+https://www.youtube.com/watch?v=qs3KhLDUBmk
