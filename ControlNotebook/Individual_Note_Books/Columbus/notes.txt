@@ -1,6 +1,5 @@
-i think, 
+A breakout and power delivery board was designed to effeciently delivery power and signals to the drone. The models can be seen in Drone/ControlNotebook/Individual_Note_Books/Columbus/Electrical Hardware. The final version was heavily modified to account for the after market Linear Voltage regulators. The LPKF 103 machine is great four routing. The hand placed vias are horible for consistant electrical continuity.
 
-Design of Drone Case and shaft holder is looking good:
+The Software section contains the ESP32 program that allows for control of the drone using hte XBOX controller. THe ESP32 send pwm signals to the motor pins of the Electronic Speed Controller.
 
-https://cad.onshape.com/documents/3f215864228cbf25235ad5d0/w/e4602fd1a7e0fc7ee204058f/e/1b870dba5783e7bcb77e6157?renderMode=0&uiState=68c84bab4db02edb705b9f42
-
+The Chasis and all internals were designed to fit inside of the drone. However due to bulky wiring. The ESC was mounted on the outide rear of the drone. A tail was then designed to support the balance of the drone and keep it from rollowing backwards when accelerating.
